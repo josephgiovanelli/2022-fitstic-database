@@ -2,8 +2,6 @@
 
 - The slides folder contains the material teached during classes.
 
-## whoami
-
 <img width="831" alt="image" src="https://user-images.githubusercontent.com/41596745/203931143-aa69e1e1-643f-45cb-8ea2-14b723fafa0e.png">
 
 ## Install
