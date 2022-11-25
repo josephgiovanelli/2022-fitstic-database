@@ -1,4 +1,4 @@
-# Databases systems
+# Database systems
 
 - The slides folder contains the material teached during classes.
 
